@@ -9,4 +9,3 @@ permalink: >
   https://nextstage.torolab.ibm.com/iotplatform/search/
 published: true
 ---
-<gcse:searchresults-only linkTarget="_self"></gcse:searchresults-only>

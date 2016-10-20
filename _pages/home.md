@@ -11,7 +11,7 @@ published: true
 ---
 [leadspace]
 <div>
-<br/><br/>
+<br /><br />
 </div>
 [pn-grid cols="6" sameheight=".pn-brick"]
 [grid span="1"]
@@ -41,7 +41,7 @@ published: true
 <a href="https://docs.internetofthings.ibmcloud.com/getting_started/quickstart/index.html">Get started</a></h2>
 <p class="link-desc">Explore the code, read the docs, or try out a recipe.</p>
 <p><a href="http://discover-iot.eu-gb.mybluemix.net/#/play">Play</a> |  <a href="http://discover-iot.eu-gb.mybluemix.net/#/try/">Try</a></p>
-<p><a href="https://nextstage.torolab.ibm.com/recipes/?post_type=tutorials&s=IoT">Recipes</a></p><p><a href="https://docs.internetofthings.ibmcloud.com/">Docs</a></p>
+<p><a href="https://nextstage.torolab.ibm.com/recipes/?post_type=tutorials&amp;s=IoT">Recipes</a></p><p><a href="https://docs.internetofthings.ibmcloud.com/">Docs</a></p>
 
 [/pn-brick]
 [/grid]
@@ -85,7 +85,7 @@ published: true
 [grid span="3"]
 [pn-brick class="pn-p10"]
 
-<h2 class="links-h2" style="color:#1C7FA1;>
+<h2 class="links-h2">
 <a href="https://nextstage.torolab.ibm.com/iotplatform/blog/">Recent updates from our blog</a></h2>
 <p>Check out the latest blog posts.
 Or, discover <a href="https://nextstage.torolab.ibm.com/iotplatform/blog/">all the posts from all the folks.</a></p>
@@ -97,13 +97,13 @@ Or, discover <a href="https://nextstage.torolab.ibm.com/iotplatform/blog/">all t
 <!-- Empty column for right-side padding -->
 [grid span="1"]
 [pn-brick]
-<p><br/></p>
+<p><br /></p>
 [/pn-brick]
 [/grid]
 
 [grid span="2"]
 [pn-brick class="pn-p10"]
-<h2 class="links-h2" style="color:#1C7FA1;><a href="https://nextstage.torolab.ibm.com/iotplatform/iot-events/">Events</h2>
+<h2 class="links-h2"><a href="https://nextstage.torolab.ibm.com/iotplatform/iot-events/">Events</h2>
 <p>Check out these events that are coming soon!
 Or, discover <a href="https://nextstage.torolab.ibm.com/iotplatform/iot-events/">all the IoT events.</a></p>
 [events_list blog="*" category="iot" limit="5"]

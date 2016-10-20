@@ -8,11 +8,11 @@ layout: page
 permalink: 'http://nextstage.torolab.ibm.com/recipes/?post_type=tutorials&#038;s=IoTF'
 published: true
 dsq_thread_id:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 ---
-<meta http-equiv="refresh" content="0; url=//nextstage.torolab.ibm.com/recipes/?post_type=tutorials&s=IoTF" />
 
-<style>
+
+
 .shuffle-item h5 {
 color: #999;
 line-height: 14px;
@@ -21,5 +21,5 @@ margin-top: 0.5px;
 .shuffle-item .box-header{
 max-height:72px!important;
 }
-</style>
+
 [iot_search_template]
