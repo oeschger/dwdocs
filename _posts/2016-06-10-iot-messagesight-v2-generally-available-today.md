@@ -1,0 +1,21 @@
+---
+ID: 3056
+post_title: >
+  IoT MessageSight v2 Generally Available
+  today!
+author: bkufluk
+post_date: 2016-06-10 16:31:11
+post_excerpt: ""
+layout: post
+permalink: >
+  https://nextstage.torolab.ibm.com/iotplatform/2016/06/10/iot-messagesight-v2-generally-available-today/
+published: true
+---
+I'm very excited to announce that <strong>IBM IoT MessageSight v2</strong> is now available.   <br />We announced IoT MessageSight in May, see the <a href="http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=an&subtype=ca&appname=gpateam&supplier=897&letternum=ENUS216-219" target="_blank">full official announcement</a>.  <br />
+<h2>What is IBM IoT MessageSight?<img src="http://nextstage.torolab.ibm.com/iotplatform/wp-content/uploads/sites/24/2016/06/MessageSight-powering-the-IoTP-small-300x166.jpg" alt="MessageSight powering the IoTP - small" width="300" height="166" class="alignright size-medium wp-image-3062" /></h2>
+IoT MessageSight is software gateway for the Internet of Things.  It offers MQTT connectivity which scales to connect to millions of connections.  To connect to the enterprise it offers MQTT, IBM MQ and JMS connectivity, enabling it to connect to products including WebSphere Application Server and IBM Integration Bus.  
+<br />You can deploy IoT MessageSight on premise, or in the cloud on IBM SoftLayer, Microsoft Azure or Amazon.  
+<br /><br />In contrast to the Watson IoT Platform, IoT MessageSight is software that you deploy and manage yourself.  <br />IBM offers a range of options for IoT, depending on how you want to deploy and manage your systems:
+<br /><br /><a href="http://nextstage.torolab.ibm.com/iotplatform/wp-content/uploads/sites/24/2016/06/deploy-options.jpg"><img src="http://nextstage.torolab.ibm.com/iotplatform/wp-content/uploads/sites/24/2016/06/deploy-options.jpg" alt="deploy options" width="693" height="429" class="alignnone size-full wp-image-3061" /></a><br />Also internally we use IoT MessageSight technology within the IoT Platform to help power the Connect piece of the IoT Platform.<br />
+<h2>What's new?</h2>
+<ul><li><h3>Scalability. Cluster multiple instances</h3></li></ul>You can now cluster multiple instances together to create a shared topic space and scale to multi-million connections!<br /><ul><li><h3>RESTful administration API</h3></li></ul>We have an all new RESTful administration API.  Making it easier to script, automate and deploy.  <br /><ul><li><h3>Deployment. Linux™, Docker</h3></li></ul>New linux deployment with RPMs for Red Hat Enterprise Linux and CentOS.  <br />Also, the download now includes a Docker file which makes it easy to create and deploy IoT MessageSight Docker containers. <br /><ul><li><h3>Security. Black list rogue client certificates</h3></li></ul>If you're using client certificates then you'll want to use our Certificate Revocation List feature to be able to black list rogue clients to prevent them being authenticated.  <br /><ul><li><h3>Performance enhancements</h3></li></ul>We've made some pretty significant enhancements to performance; particularly as it applies to persisted messages (QoS 1 and 2).  <br /><ul><li><h3>High availability enhancements</h3></li></ul>High Availability pairs can now be distributed over much larger distances, that means you can stretch your high availability pairs between datacenters for increased uptime in the event of a problem.  <br /><ul><li><h3>New licensing option for high-availability configurations</h3></li></ul>New licensing is available at a reduced cost for the standby member of a high availability pair, making the solution more cost effective.  <br /><ul><li><h3>Plug-in point to support additional protocols</h3></li></ul><p>You can extend IoT MessageSight to support additional protocols with our protocol plugin point.  You might need to do this to support a legacy protocol during the transition to MQTT, or to support a specific industry protocol like those used in smart meters.  </p><h2>Try it out for yourself </h2>Want to try it out?  You can download the IoT MessageSight for Developers edition from our <a href="https://nextstage.torolab.ibm.com/messaging/messagesight/" target="_blank">Developerworks site</a>.

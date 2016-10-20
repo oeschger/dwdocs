@@ -1,0 +1,14 @@
+---
+ID: 3134
+post_title: >
+  SemiCon West IIoT Panel Discussion
+  includes Watson IoT
+author: Walicki
+post_date: 2016-07-18 15:52:13
+post_excerpt: ""
+layout: post
+permalink: >
+  https://nextstage.torolab.ibm.com/iotplatform/2016/07/18/semicon-west-iiot-panel-discussion-includes-watson-iot/
+published: true
+---
+<img src="http://www.semiconwest.org/sites/semiconwest.org/files/semi.png" alt="Semicon logo" class="alignnone" height="67" width="188" />On July 14th, I participated in a <a class="profileLink" href="https://www.facebook.com/SEMICONWest/" data-hovercard="/ajax/hovercard/page.php?id=45909689738">SEMICON West</a> panel featuring the judges of the SemiCon <a class="_58cn" href="https://www.facebook.com/hashtag/iiot?source=feed_text&story_id=10153910564660326" data-ft="{&quot;tn&quot;:&quot;*N&quot;,&quot;type&quot;:104}"><span aria-label="hashtag" class="_58cl">‪#‎</span><span class="_58cm">IIoT‬</span></a> hackathon.  The panel was moderated by <a class="profileLink" href="https://www.facebook.com/christopher.caen" data-hovercard="/ajax/hovercard/user.php?id=1062110872">Christopher Caen</a> of <a class="profileLink" href="https://www.facebook.com/ReadWrite/" data-hovercard="/ajax/hovercard/page.php?id=65491870325">ReadWrite</a> and covered a wide range of IoT topics - data analytics, sensors, edge vs cloud computing, security, hackathon advice, standards, IoT use cases and user experiences.  It was a great <a target="_blank" href="https://www.facebook.com/ReadWrite/videos/10153910564660326/">panel discussion</a> and I encourage everyone to give it a review.<br /><br /> Featuring: <br /> Paul Cutsinger of <a class="profileLink" href="https://www.facebook.com/alexadevs/" data-hovercard="/ajax/hovercard/page.php?id=762742800492532">Amazon Alexa Developers</a> at <a class="profileLink" href="https://www.facebook.com/Amazon/" data-hovercard="/ajax/hovercard/page.php?id=9465008123">Amazon.com</a><br /> John Walicki of <a class="profileLink" href="https://www.facebook.com/ibmwatson/" data-hovercard="/ajax/hovercard/page.php?id=187446750783">IBM Watson IoT</a> and <a class="profileLink" href="https://www.facebook.com/ibmbluemix/" data-hovercard="/ajax/hovercard/page.php?id=733424743345866">IBM Bluemix</a><br /> Abhi Rele of Artik Cloud and <a class="profileLink" href="https://www.facebook.com/SamsungIoT/" data-hovercard="/ajax/hovercard/page.php?id=1568732723381487">Samsung IoT</a><br /> Aaron Tersteeg of <a class="profileLink" href="https://www.facebook.com/pages/Intel-Corporation/109409872410929" data-hovercard="/ajax/hovercard/page.php?id=109409872410929">Intel Corporation</a> at <a class="profileLink" href="https://www.facebook.com/Intel/" data-hovercard="/ajax/hovercard/page.php?id=22707976849">Intel <br /></a>

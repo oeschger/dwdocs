@@ -1,0 +1,14 @@
+---
+ID: 3267
+post_title: >
+  Secure your IoT solutions with the IBM
+  Watson IoT Platform
+author: James_Murphy
+post_date: 2016-09-01 10:31:48
+post_excerpt: ""
+layout: post
+permalink: >
+  https://nextstage.torolab.ibm.com/iotplatform/2016/09/01/secure-your-iot/
+published: true
+---
+<img src="http://www.ibmbigdatahub.com/sites/default/files/iotsecurity2_blog.jpg" width="256" height="360" class=" alignright" />The most commonly cited concerns with the Internet of Things among consumers are around security. As connected devices proliferate in our homes and workplaces, they exceedingly become more intertwined with our daily activities. The IoT data that flows from those devices becomes our digital fingerprint and tempering with this data can have wide spreading implications. The security stakes are high, not only for private citizens, but also for enterprises and governments.<p>IoT developers, architects, and executives have an important stake in ensuring that they build state-of-the-art security into the systems that they design. There are several aspects to securing an IoT system, including but not limited to:  compliance with international standards, intelligent authentication and authorization, and the use of powerful encryption.</p><p>That is why best practice and the compliance with standards such as the International Organization for Standardization (ISO) 27000 family is crucial. The ISO 27000 family of standards incorporates a process of scaling risk and valuation of assets, with the goal of safeguarding the confidentiality, integrity, and availability of written, oral, and electronic information.</p><p>Watson IoT Platform is built on the highest standards of security internally and has been audited by a third party firm to ensure compliance specifically with <a href="http://www-935.ibm.com/services/multimedia/saas_27k.pdf" target="_blank">ISO 27001</a>. This is the key standard that defines the best practices for information security management processes and ensures that the right measures are implemented, documented, and maintained. The Watson IoT Platform extends the same grade of security to applications that leverage the available security features fully.</p><p>IoT security cannot be an afterthought, so leverage an IoT platform by a proven brand like IBM that has operated the backbone of large enterprises, banks, and governments for decades and is a leader in Internet and cloud security. If you would like to understand the security features of the Watson IoT Platform and the underlying security of Bluemix and Softlayer please visit the <a href="https://console.stage1.ng.bluemix.net/docs/services/IoT/reference/security/index.html">security section</a> in our documentation.</p><br /><br /><br />

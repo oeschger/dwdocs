@@ -1,0 +1,14 @@
+---
+ID: 2723
+post_title: >
+  IoT devices can now understand their
+  device context
+author: bkufluk
+post_date: 2016-02-17 16:51:38
+post_excerpt: ""
+layout: post
+permalink: >
+  https://nextstage.torolab.ibm.com/iotplatform/2016/02/17/weather-data-for-you-for-your-devices/
+published: true
+---
+<p>Weather is so important, for so many things. Weather predictions can help to tell us how to control our heating, to close the skylight when it's going to rain, or tell us to get our vehicle under cover when a damaging hailstorm is coming. Now you can get that weather data <strong>inline</strong> with your device data as part of the <strong>device context</strong> in IoT Platform. <br /><a href="http://nextstage.torolab.ibm.com/iotfoundation/wp-content/uploads/sites/24/2016/02/weather.jpg"><img src="http://nextstage.torolab.ibm.com/iotfoundation/wp-content/uploads/sites/24/2016/02/weather.jpg" alt="weather" class="alignnone wp-image-2705 size-full" height="394" width="696" /><br /></a>Just set the location of your device with latitude and longitude co-ordinates and start seeing the weather data that matches where your device is located as part of your device context. <br /><br />Set the 'location' property with values for longitude and latitude.  Normally this would be set from the device itself, but if you want to try it out you can set it using the API :</p><pre><span>PUT</span><i> </i>https://&lt;yourorg&gt;<yourorg>.internetofthings.ibmcloud.com/api/v0002/device/types/&lt;yourdevicetype&gt;<yourdevicetype>/devices/&lt;yourdeviceid&gt;<yourdeviceid>/location</yourdeviceid></yourdevicetype></yourorg><span class="para_break"><i class="copy_only"><br /></i></span><span>with body</span><span class="para_break"><i class="copy_only"><br /></i></span><span>{"longitude":"-97.75","latitude":"30.25"}</span></pre><p>You'll need to enable the Experimental features toggle in Settings to be able to see the weather data. <br /><a href="http://nextstage.torolab.ibm.com/iotfoundation/wp-content/uploads/sites/24/2016/02/experimentalon.jpg"><img src="http://nextstage.torolab.ibm.com/iotfoundation/wp-content/uploads/sites/24/2016/02/experimentalon.jpg" alt="experimentalon" class="alignnone wp-image-2764 size-full" height="202" width="574" /></a><br /><br />Now you can build applications that can combine live device information with the weather.  That means you can start to take actions as a result of the weather and begin to spot correlations.  Do you see more failures when the temperature drops?  Do you want to alert someone when your device is in a particular state and the weather is hot? Do you want your device to automatically shutdown in high winds?<br /><br />Login and try it out!</p>

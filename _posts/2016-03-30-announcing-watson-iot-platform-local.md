@@ -1,0 +1,12 @@
+---
+ID: 2805
+post_title: Announcing Watson IoT Platform Local
+author: bkufluk
+post_date: 2016-03-30 11:58:18
+post_excerpt: ""
+layout: post
+permalink: >
+  https://nextstage.torolab.ibm.com/iotplatform/2016/03/30/announcing-watson-iot-platform-local/
+published: true
+---
+I'm pleased to announce that the IoT Platform is now available as a Local offering.  <br /><h3>What is Local?</h3>Watson IoT Platform (IoT Platform) is currently available as a <strong>Public cloud</strong> service.   This is great as it's quick to get started, offers simple sign up, and pay as you go pricing.  It's also available as a <strong>Dedicated</strong> offering which allows you to have IoT Platform deployed in any of the 40+ SoftLayer datacenters around the world.   <a href="http://www.softlayer.com/data-centers"><br /></a>What happens if you want to run it in your own Datacenter and need tight control over the hardware, or have data sovereignty requirements that mean you need to define exactly which where your data lives?  <br />That's where <strong>Local</strong> comes in.  With our Local offering, you can have IoT Platform deployed your own data center or one of your choosing - real flexibility to deploy whenever you choose.  <a href="http://www.softlayer.com/data-centers"></a><br /><br />With Local: <br /><br /><ul><li>You own the hardware, running in your own datacenter, giving you full track and tracability</li><li>Guarantees that your data is isolated, using your own hardware</li><li>Allows you to show compliance with Data Sovereignty requirements</li><li>May be needed for PCI data</li><li>More control over planned outages</li></ul>Which all results in peace of mind when you need tight control over your data.  <br /><h3>What else do I need to know?</h3><h4>Pricing and deployment</h4>Local is priced differently from Public Cloud.  You pay in larger increments of capability, rather than pay-as-you-go.  <br />Our base instance supports 100,000 devices, and you can add additional instances to support larger deployments.  <br /><p><a target="_blank" href="http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=AN&subtype=CA&htmlfid=897/ENUS216-160&appname=lenovous&language=en">Announcement letter for Local</a><br /><br />Also see the <a href="https://nextstage.torolab.ibm.com/iotfoundation/blog/2016/01/22/announcing-dedicated/">blog entry for Dedicated.</a></p>
