@@ -10,3 +10,6 @@ permalink: >
 published: true
 ---
 [github file="/IBM-Bluemix/docs/blob/master/services/IoT/index.md"][/github]
+
+
+Here is more!
